@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jintian @yu-jingtian.
+- 👋 Hi, I’m Jintian Yu.
 - 👀 Visit my homepage [here](https://yu-jingtian.github.io/).
 - 🌱 I’m interested in statistics, network data analysis and python programing.
 
